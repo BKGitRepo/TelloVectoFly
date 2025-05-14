@@ -1,0 +1,90 @@
+[
+    {
+        "command": "command",
+        "arguments": []
+    },
+    {
+        "command": "takeoff",
+        "arguments": []
+    },
+    {
+        "command": "up",
+        "arguments": [50]
+    },
+    {
+        "command": "forward",
+        "arguments": [20]
+    },
+    {
+        "command": "cw",
+        "arguments": [30]
+    },
+    {
+        "command": "forward",
+        "arguments": [20]
+    },
+    {
+        "command": "cw",
+        "arguments": [30]
+    },
+    {
+        "command": "forward",
+        "arguments": [20]
+    },
+    {
+        "command": "cw",
+        "arguments": [30]
+    },
+    {
+        "command": "forward",
+        "arguments": [20]
+    },
+    {
+        "command": "cw",
+        "arguments": [30]
+    },
+    {
+        "command": "forward",
+        "arguments": [20]
+    },
+    {
+        "command": "cw",
+        "arguments": [30]
+    },
+    {
+        "command": "forward",
+        "arguments": [20]
+    },
+    {
+        "command": "cw",
+        "arguments": [30]
+    },
+    {
+        "command": "forward",
+        "arguments": [20]
+    },
+    {
+        "command": "cw",
+        "arguments": [30]
+    },
+    {
+        "command": "forward",
+        "arguments": [20]
+    },
+    {
+        "command": "cw",
+        "arguments": [30]
+    },
+    {
+        "command": "forward",
+        "arguments": [20]
+    },
+    {
+        "command": "cw",
+        "arguments": [30]
+    },
+    {
+        "command": "land",
+        "arguments": []
+    }
+]
