@@ -1,4 +1,5 @@
 # TelloVectoFly
+![Flight Path Example](docs/images/flight_path_sample.png)
 
 A simulation environment for testing and visualizing Tello drone flight paths before deploying commands to a real drone.
 
